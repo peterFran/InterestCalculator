@@ -9,7 +9,7 @@ so I've chosen this method.
 # Running
 First ensure that you have a python3 virtualenvironment configured
 
-then run:
+then from within the top level directory run:
 pip install -r requirements.txt
 
 This will install pandas, numpy, pytest and their dependencies.
