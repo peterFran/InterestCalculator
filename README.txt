@@ -1,3 +1,11 @@
+# Disclaimer
+The algorithm employed doesn't match the example given.
+I've used an algorithm that amotizes the loan amount and
+adds compound interest.
+
+The system of interest accumulation wasn't specified in the brief,
+so I've chosen this method.
+
 # Running
 First ensure that you have a python3 virtualenvironment configured
 
